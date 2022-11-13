@@ -20,3 +20,6 @@ end
 function Library:netless()
     loadstring(game:HttpGet(('https://pastebin.com/raw/Cu7bKQWN'),true))()
 end
+
+
+return Library;
